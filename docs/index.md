@@ -8,9 +8,11 @@ The goals of the workshop are to:
 
 ### Who is organizing the workshop?
 
-This workshop is organized by the Institute of Applied Computational Sciences at Harvard University. The members of the program committee are:
-- Weiwei Pan (Harvard IACS)
-- David Sondak (Harvard IACS)
+This workshop is organized by the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University. 
+
+The program committee:
+- [Weiwei Pan](https://onefishy.github.io) (Harvard IACS)
+- [David Sondak](https://iacs.seas.harvard.edu/people/david-sondak) (Harvard IACS)
 
 ### Workshop FAQs
 
