@@ -6,7 +6,7 @@ The goals of the workshop are to:
 2. expose data science educators to current "state-of-the-art" methodologies and tools in data science
 3. facilitate a supportive environment for educators to develop data science pedagogical materials that are customized to the needs of their own students. 
 
-### Who is organizing the workshop?
+### Organizers
 
 This workshop is organized by the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University. 
 
@@ -14,11 +14,18 @@ The program committee:
 - [Weiwei Pan](https://onefishy.github.io) (Harvard IACS)
 - [David Sondak](https://iacs.seas.harvard.edu/people/david-sondak) (Harvard IACS)
 
+### Important Dates 
+
+**July 31st, 2020:** [application](./application-process.html) opens
+**December 20th**: [application](./application-process.html) closes
+**December 31st**: acceptance notifications go out
+
+
 ### Workshop FAQs
 
 - [What will you do at the workshop?](./what-to-do.html)
 - [Who should apply to the workshop?](./who-should-apply.html)
-- [What is the application like?](./application-process.html)
+- [How do I apply?](./application-process.html)
 - [When and where is the workshop?](./when-and-where.html)
 - [What topics are covered in the workshop?](./schedule.html)
 
