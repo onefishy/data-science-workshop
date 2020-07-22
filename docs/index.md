@@ -16,8 +16,8 @@ The program committee:
 
 ### Important Dates 
 
-**July 31st, 2020:** [application](./application-process.html) opens
-**December 20th**: [application](./application-process.html) closes
+**July 31st, 2020:** [application](./application-process.html) opens<br>
+**December 20th**: [application](./application-process.html) closes<br>
 **December 31st**: acceptance notifications go out
 
 
