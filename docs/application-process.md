@@ -8,3 +8,5 @@ The application consists of:
  - in general, what do you hope to gain from participating in this workshop?
 
 The application is ***free***.
+
+[Apply now!](https://forms.gle/J4amL5rcejTrxtxz6)
