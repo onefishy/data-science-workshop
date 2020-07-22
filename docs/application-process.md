@@ -1,4 +1,4 @@
-### What is the application process like?
+# What is the application process like?
 The application consists of:
 1. an updated resume or CV
 2. a statement of purpose addressing the following:
