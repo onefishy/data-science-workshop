@@ -16,9 +16,9 @@ The program committee:
 
 ### Important Dates 
 
-**July 31st:** [application](./application-process.html) opens<br>
-**December 20th**: [application](./application-process.html) closes<br>
-**December 31st**: acceptance notifications go out
+***July 31st:*** [application](./application-process.html) opens<br>
+***December 20th***: [application](./application-process.html) closes<br>
+***December 31st***: acceptance notifications go out
 
 
 ### Workshop FAQs
