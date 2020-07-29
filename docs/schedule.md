@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><b>Day 1</b></td>
-    <td>Data Exploration and Visualization</td>
+    <td>Introductions, Data Exploration and Visualization</td>
   </tr>
   <tr>
     <td><b>Day 2</b></td>
