@@ -12,7 +12,7 @@ This workshop is organized by the [Institute of Applied Computational Sciences](
 
 The program committee:
 - [Weiwei Pan](https://onefishy.github.io) (Harvard IACS)
-- [David Sondak](https://iacs.seas.harvard.edu/people/david-sondak) (Harvard IACS)
+- [David Sondak](https://dsondak.github.io) (Harvard IACS)
 
 ### Important Dates 
 
