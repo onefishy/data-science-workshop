@@ -17,8 +17,8 @@ The program committee:
 ### Important Dates 
 
 ***July 31st:*** [application](./application-process.html) opens<br>
-***December 20th***: [application](./application-process.html) closes<br>
-***December 31st***: acceptance notifications go out
+***December 1st***: [application](./application-process.html) closes<br>
+***December 8th***: acceptance notifications go out
 
 
 ### Workshop FAQs
@@ -29,4 +29,4 @@ The program committee:
 - [When and where is the workshop?](./when-and-where.html)
 - [What topics are covered in the workshop?](./schedule.html)
 
-Don't see your question? Contact: weiweipan (at) g (dot) harvard (dot) edu
+Don't see your question? Contact: weiweipan (at) g (dot) harvard (dot) edu, or dsondak (at) g (dot) harvard (dot) edu
