@@ -17,8 +17,11 @@ The program committee:
 ### Important Dates 
 
 ***July 31st:*** [application](./application-process.html) opens<br>
-***December 1st***: [application](./application-process.html) closes<br>
-***December 8th***: acceptance notifications go out
+~~***December 1st***: [application](./application-process.html) closes<br>~~
+***December 8th***: first round of [applications](./application-process.html) closes<br>
+***December 15th***: first round of acceptance notifications go out<br>
+***December 22nd***: final round of [applications](./application-process.html) closes<br>
+***December 26th***: final round of acceptance notifications go out
 
 
 ### Workshop FAQs
