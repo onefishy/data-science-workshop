@@ -1,5 +1,5 @@
 # General Information
-This is a week long data science pedagogy workshop for educators of underrepresented, underserved college students in data science. The workshop will take place January 4-8, 2021.
+This is a week long data science pedagogy workshop for educators of underrepresented or underserved college students in data science. The workshop will take place January 4-8, 2021.
 
 The goals of the workshop are to: 
 1. help educators, who are new to the field, build sound foundations in data science
