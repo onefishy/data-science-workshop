@@ -1,4 +1,4 @@
-# Day 1: Neural Network Models for Classification
+# Day 4: Neural Network Models for Classification
 
 On this day, we will cover neural network models for classification. The materials will be broken down into a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there will be a short concept-check quiz for the viewer to test their understanding. These materials are taken from [an intensive summer data science course](https://onefishy.github.io/Rwanda-Data-Science/) run by IACS and the University of Rwanda. These materials serves as either an introduction of new data science concepts to participants ***or*** as a foundation for discussion amongst participants on how to present these concepts to their own students.
 
