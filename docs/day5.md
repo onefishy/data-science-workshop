@@ -1,0 +1,64 @@
+# Day 5: Bayesian Models
+
+On this day, we will cover Bayesian models for regression and classification. The materials will be broken down into a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there will be a short concept-check quiz for the viewer to test their understanding. These materials are taken from [an intensive summer data science course](https://onefishy.github.io/Rwanda-Data-Science/) run by IACS and the University of Rwanda. These materials serves as either an introduction of new data science concepts to participants ***or*** as a foundation for discussion amongst participants on how to present these concepts to their own students.
+
+During the morning session of Day 1, participants will explore a Deepnote notebook that puts these concepts together in ways that expose interesting properties of these models. 
+
+During the afternoon session of Day 1, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
+
+
+## **Topic 1:** Bayesian Models for Regression
+
+- **Lecture Video:** <br>
+[![Alt text](https://img.youtube.com/vi/Zp7UV7AthkI/0.jpg)](https://youtu.be/Zp7UV7AthkI) <br>
+(18:52 minutes)
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/16H8wMry5XaQ7vpmDUg3iMUxrQfTzLuvz/view?usp=sharing)
+- **References:** 
+  - [Get Started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
+- **Concept Quiz:** [Quiz]()  
+  
+    
+## **Topic 2:** Bayesian Linear and Polynomial Regression
+
+- **Lecture Video:** <br>
+[![Alt text](https://img.youtube.com/vi/PYKeGucTTWs/0.jpg)](https://youtu.be/PYKeGucTTWs) <br>
+(6:09 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1bz9o03V9FOl-vvpWzBIt5uLwYZo5Vl53/view?usp=sharing)
+- **References:** 
+  - [Simple Linear Regression - Do It the Bayesian Way!](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+- **Concept Quiz:** [Quiz]() 
+    
+## **Topic 3:**  Interpreting the Posterior Predictive
+- **Lecture Video:** <br>
+[![Alt text](https://img.youtube.com/vi/mAon22ClzF8/0.jpg)](https://youtu.be/mAon22ClzF8) <br>
+(6:46 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1f0IP811JQ5KQODrPEWpChj3KdxJToKmf/view?usp=sharing)
+- **References:** 
+  - [Bayesian Inference for Machine Learning](https://wso2.com/blog/research/part-two-linear-regression)
+- **Concept Quiz:** [Quiz]() 
+
+## **Topic 4:**   Connecting Bayesian and Non-Bayesian Models
+
+- **Lecture Video:** <br>
+[![Alt text](https://img.youtube.com/vi/gSMQTEHnjyc/0.jpg)](https://youtu.be/gSMQTEHnjyc) <br>
+(11:44 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1c9TBPPaLICFIeKU57ne66chWgvR_nyu_/view?usp=sharing)
+- **References:** 
+  - [A Short Story on Bayesian vs Frequentist Statistics](https://medium.com/analytics-vidhya/a-short-story-on-bayesian-vs-frequentist-statistics-27f55ae56253)
+- **Concept Quiz:** [Quiz]() 
+  
+## **Topic 5:**  Bayesian Logistic Regression
+
+- **Lecture Video:** <br>
+[![Alt text](https://img.youtube.com/vi/YdSbRI5fzbg/0.jpg)](https://youtu.be/YdSbRI5fzbg) <br>
+(6:17 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1fwey99oywsJSvpf--ivDAJ_WiyWGqbGp/view?usp=sharing)
+- **References:** 
+  - [Bayesian Inference Problem: MCMC Sampling and Variational Inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+- **Concept Quiz:** [Quiz]() 
+
+    
