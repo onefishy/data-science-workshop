@@ -16,7 +16,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.2, 8.1.3, 8.1.4
   - [Decision Trees in Machine Learning](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1NYSFjnC7PWAG6hYPWufnqo4vDH8ew4aA/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
     
 ## **Topic 2:**  Hyper-parameter Selection and Variance Reduction
 
@@ -27,7 +27,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.2.1, 8,2,2, 5.1, 5.2
   - [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1INhCS0F7BfoCtvNIF8IBPlrrIBLQ60K7/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
     
 ## **Topic 3:** Evaluating Classifiers
 
@@ -40,7 +40,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **References:** 
   - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1jQ-ZwjuzIMN5t0yXxkK2kk3QF0KYdPnU/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
 
 ## **Topic 4:** Neural Networks for Regression
 
@@ -50,7 +50,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1-oDJEzReIyNsmakv6LtS0dP27tmU3V1v/view?usp=sharing)
 - **References:** 
   - [The Math behind Artificial Neural Networks](https://towardsdatascience.com/the-heart-of-artificial-neural-networks-26627e8c03ba)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/16ExIOwoZ1DheuRKIMz92GPw64qOXdTrg/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
     
 ## **Topic 5:** Optimizing Neural Networks
 
@@ -61,7 +61,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1JqUUfqj81ioExFhyTwBw8HYpbj__7uMF/view?usp=sharing)
 - **References:** 
   - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1C4ZvM2zyVZsO68NuXbawtBLg7QyZKVzs/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
     
 #### **Topic 6:** Implementing Neural Networks in `keras`
 - **Lecture Video:** <br>
@@ -71,4 +71,4 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1OsENAg2OdIVoJwE50g6Q37i_msEZxRzC/view?usp=sharing)
 - **References:** 
   - [Building Neural Network using keras for Regression](https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-regression-ceee5a9eadff)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1I_PTktQTRxWArAefHm6uX5OiEWnK36q9/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
