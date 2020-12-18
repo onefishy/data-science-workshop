@@ -29,7 +29,9 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 
 ## **Topic 3:** Linear Regression
 
-- **Lecture Video:** [![Alt text](https://img.youtube.com/vi/MnfjfarIklQ/0.jpg)](https://youtu.be/MnfjfarIklQ) (12:23 minutes)
+- **Lecture Video:**  <br>
+[![Alt text](https://img.youtube.com/vi/MnfjfarIklQ/0.jpg)](https://youtu.be/MnfjfarIklQ)  <br>
+(12:23 minutes)
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1XrREBhCfHh7JzWijr0HEJtNS_9tfLX5O/view?usp=sharing)
   
