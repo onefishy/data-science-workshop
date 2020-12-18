@@ -15,7 +15,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **References:** 
   - [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
   - [Bootstrapping for Linear Regression](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1tNBx0VYsHyXAbnWrN3kjSc44y_TmwAIC/view?usp=sharing)  
+- **Concept Quiz:** [Quiz]()  
   
 ## **Topic 2:**  Bias versus Variance
 - **Lecture Video:** <br>
@@ -27,7 +27,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1g4O2X_ahORXTjImAZteADHGEht__MLs4/view?usp=sharing) 
+- **Concept Quiz:** [Quiz]() 
   
 ## **Topic 3:**  Variance Reduction
 - **Lecture Video:** <br>
@@ -39,7 +39,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
   - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AjhZDbSOMEWhIYg1NGrZgFbnCqJiJv03/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
 
 ## **Topic 4:** Models for Classification
 
@@ -52,7 +52,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
   - "Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3
   - [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1HAvvN8DkkB_Q14GN8RzBkg33w565Io2R/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
   
 ## **Topic 5:** Gradient Descent
 
@@ -63,7 +63,7 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1EVGhfpPU_tl1EuI0XkZRfvCO89FqLmLE/view?usp=sharing)
 - **References:** 
   - [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1G3NhjQk_TXFjf1dE_famNxw3YhDN_CYe/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
   
 ## **Topic 6:** Evaluating and Interpreting Classifiers
 
@@ -74,5 +74,5 @@ During the afternoon session of Day 1, participants will discuss how to adapt ex
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1UNFyt42euWHJ_3bE5uhfLv04yThag9_2/view?usp=sharing)
 - **References:** 
   - [Interpreting the Imapact Size of Logistic Regression Coefficients](https://medium.com/ro-data-team-blog/interpret-the-impact-size-with-logistic-regression-coefficients-5eec21baaac8)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1-GQk1n8_NXFl-1m6sctcSNLHFPeQIPRf/view?usp=sharing)
+- **Concept Quiz:** [Quiz]()
 
