@@ -105,7 +105,7 @@ materials for teaching these data science concepts to their own students.
 - **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1oxGKKnUEYJY2yLnCmp_slSsviZZD-F6H/view?usp=sharing)
 
 
-## In-Class Exercise: 
+## In-Class Exercise
 1. [Neural Networks for Classification](https://colab.research.google.com/drive/1XLJUE69QHJC-o_oCHk3LkspTR4S5iBa_?usp=sharing)
 2. [Data Preprocessing and Model Interpretation Notebook](https://colab.research.google.com/drive/13HDsKpgCduOKiSJL8VG-KopJTOyX5Meh?usp=sharing)
 3. [PCA and Dimensionality Reduction](https://colab.research.google.com/drive/18_yrbsoTEw6e0oURuOlMt1QRDHll9nV8?usp=sharing)
