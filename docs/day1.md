@@ -84,6 +84,6 @@ materials for teaching these data science concepts to their own students.
 - **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1boYTLq6tSorphrbDIWoa6cjye-4tNaOl/view?usp=sharing)
 
 
-## In-class Exercise:
+## In-class Exercise
 1. [Linear and Polynomial Regression](https://colab.research.google.com/drive/17Z4DnW688_9Gn0maaraf-N9JKW3607OR?usp=sharing)
 2. [Probabilistic Models and Non-Probabilistic Models for Regression](https://colab.research.google.com/drive/1tQ39xTxJTVeUnU_-UYushOs9mnJAk3hP?usp=sharing)
