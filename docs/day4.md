@@ -23,7 +23,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1zlxz605k9Ge-SDcr9i2McN7sZiGtXjJ0/view?usp=sharing)
 - **References:** 
   - [Building our first neural network in keras](https://towardsdatascience.com/building-our-first-neural-network-in-keras-bdc8abbc17f5)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1f3M6-NB6C5wFv1cmPgpIDH8JmocRMFR1/view?usp=sharing)
   
 ## **Topic 2:**  Interpreting Neural Networks
 - **Lecture Video:** <br>
@@ -33,7 +33,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1xRGszrVXXdtpJiur2yL9-mQKH2y63ia9/view?usp=sharing)
 - **References:** 
   - [Interpretable Neural Networks](https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1Jz-vTfh3lM4_xcV0eMcOGJrftX-6dnTG/view?usp=sharing)
   
 ## **Topic 3:**  Regularization for Neural Networks
 - **Lecture Video:** <br>
@@ -44,7 +44,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [A Quick Guide on Basic Regularization Methods for Neural Networks](https://medium.com/yottabytes/a-quick-guide-on-basic-regularization-methods-for-neural-networks-e10feb101328)
   - [L1 and L2 Regularization](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1ZrsQkpONn5iiH2aW_BVK9DGgAg60Seyb/view?usp=sharing)
   
 ## **Topic 4:** Encoding and Transforming Data
 
@@ -55,7 +55,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1jToQAmNWxxjZDNGOnwN6qV_BSB045uy0/view?usp=sharing)
 - **References:** 
   - [One-hot encoding of categorical data in python](https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1ar8hcy3lLRn-zbxRoTUBYb0ndZZEGCed/view?usp=sharing)
   
 ## **Topic 5:** Pre-Processing Data
 
@@ -68,7 +68,7 @@ materials for teaching these data science concepts to their own students.
   - [Data Pre-processing with `python`](https://medium.com/@kesarimohan87/data-preprocessing-6c87d27156)
   - [Examples Code with for Data Encoding and Data Pre-Processing](https://colab.research.google.com/drive/1ecT7PWP8CATWVVpLz-V2K_2q_3NrSDiN?usp=sharing)
   
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AEkNodGbfEfoPCKCrUfGq2FCfGU4YNyU/view?usp=sharing)
   
 ## **Topic 6:** Sources of Bias in Model Interpretation and Usage
 
@@ -79,7 +79,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1tFkHT1-TLzdS725yFdy6p4Bo_ePaNn2d/view?usp=sharing)
 - **References:** 
   - [Dealing with Data Imbalance](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1lJvr_ud1HXE2OkcncZbT0pXDtayqphcx/view?usp=sharing)
 
 
 ## **Topic 7:** Variable Selection
@@ -92,7 +92,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Feature Selection Using `sklearn`](https://medium.com/analytics-vidhya/feature-selection-using-scikit-learn-5b4362e0c19b)
   
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1lUouxngHrVultdEHHN99DGZuQrQIhRXs/view?usp=sharing)
     
 ## **Topic 8:**  Principal Component Analysis
 
@@ -102,5 +102,10 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/138g42wdpayZtZS1RjgNq21-FPa4GMYtF/view?usp=sharing)
 - **References:** 
   - [Principal Component Analysis in Machine Learning](https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db)
-- **Concept Quiz:** [Quiz]()
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1oxGKKnUEYJY2yLnCmp_slSsviZZD-F6H/view?usp=sharing)
 
+
+## In-Class Exercise: 
+1. [Neural Networks for Classification](https://colab.research.google.com/drive/1XLJUE69QHJC-o_oCHk3LkspTR4S5iBa_?usp=sharing)
+2. [Data Preprocessing and Model Interpretation Notebook](https://colab.research.google.com/drive/13HDsKpgCduOKiSJL8VG-KopJTOyX5Meh?usp=sharing)
+3. [PCA and Dimensionality Reduction](https://colab.research.google.com/drive/18_yrbsoTEw6e0oURuOlMt1QRDHll9nV8?usp=sharing)
