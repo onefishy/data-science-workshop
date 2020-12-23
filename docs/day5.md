@@ -24,7 +24,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/16H8wMry5XaQ7vpmDUg3iMUxrQfTzLuvz/view?usp=sharing)
 - **References:** 
   - [Get Started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
-- **Concept Quiz:** [Quiz]()  
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/11WAW1mQV49LD01_xfH7h9z5t6bUfet7r/view?usp=sharing)  
   
     
 ## **Topic 2:** Bayesian Linear and Polynomial Regression
@@ -36,7 +36,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1bz9o03V9FOl-vvpWzBIt5uLwYZo5Vl53/view?usp=sharing)
 - **References:** 
   - [Simple Linear Regression - Do It the Bayesian Way!](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
-- **Concept Quiz:** [Quiz]() 
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1-jLcKiOzT82Lmnzj_lUB24yCyQF4LmV6/view?usp=sharing) 
     
 ## **Topic 3:**  Interpreting the Posterior Predictive
 - **Lecture Video:** <br>
@@ -46,7 +46,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1f0IP811JQ5KQODrPEWpChj3KdxJToKmf/view?usp=sharing)
 - **References:** 
   - [Bayesian Inference for Machine Learning](https://wso2.com/blog/research/part-two-linear-regression)
-- **Concept Quiz:** [Quiz]() 
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1EngMVNHFupEQ2VDmi8N0LX4Nw4tIxfZ4/view?usp=sharing) 
 
 ## **Topic 4:**   Connecting Bayesian and Non-Bayesian Models
 
@@ -68,6 +68,9 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1fwey99oywsJSvpf--ivDAJ_WiyWGqbGp/view?usp=sharing)
 - **References:** 
   - [Bayesian Inference Problem: MCMC Sampling and Variational Inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
-- **Concept Quiz:** [Quiz]() 
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1wmbxL-rSPqXh4zKnW0GVe-mBAHlp-WeN/view?usp=sharing) 
 
     
+## In-class Exercise
+1. [Bayesian Linear and Polynomial Regression](https://colab.research.google.com/drive/1SDMgzICrxLEbKLojjuRf8ptrvqKNJ2Fk?usp=sharing)
+2. [Bayesian Versus Frequentist Uncertainties](https://colab.research.google.com/drive/1atbjDrcwJ0RLHa5tV8fY8tSgfb67FcqA?usp=sharing)
