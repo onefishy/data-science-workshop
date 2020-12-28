@@ -36,7 +36,7 @@ materials for teaching these data science concepts to their own students.
   - [Linear Regression Using Python](https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2)
 - **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1mMbsehL5vDb4rGw_Wphs3oXodf6Xtr_O/view?usp=sharing)
 
-## **Topic 3:** Linear Regression
+## **Topic 3:** Polynomial Regression
 
 - **Lecture Video:**  <br>
 [![Alt text](https://img.youtube.com/vi/MnfjfarIklQ/0.jpg)](https://youtu.be/MnfjfarIklQ)  <br>
