@@ -85,5 +85,5 @@ materials for teaching these data science concepts to their own students.
 
 
 ## In-class Exercise
-1. [Linear and Polynomial Regression](https://colab.research.google.com/drive/17Z4DnW688_9Gn0maaraf-N9JKW3607OR?usp=sharing)
-2. [Probabilistic Models and Non-Probabilistic Models for Regression](https://colab.research.google.com/drive/1tQ39xTxJTVeUnU_-UYushOs9mnJAk3hP?usp=sharing)
+1. [Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
+2. [Probabilistic Models and Non-Probabilistic Models for Regression](https://deepnote.com/project/1094ffc8-1d4d-42c2-b6dc-d0bc42c73e39)
