@@ -70,8 +70,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1EVGhfpPU_tl1EuI0XkZRfvCO89FqLmLE/view?usp=sharing)
 - **References:** 
   - [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1G3NhjQk_TXFjf1dE_famNxw3YhDN_CYe/view?usp=sharing)
-  
+- **Concept Quiz:** [Quiz](https://forms.gle/4SqHyvKJEQSFGbWm9)
+
 ## **Topic 6:** Evaluating and Interpreting Classifiers
 
 - **Lecture Video:** <br>
