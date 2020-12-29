@@ -79,7 +79,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1OsENAg2OdIVoJwE50g6Q37i_msEZxRzC/view?usp=sharing)
 - **References:** 
   - [Building Neural Network using keras for Regression](https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-regression-ceee5a9eadff)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1I_PTktQTRxWArAefHm6uX5OiEWnK36q9/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdJvWwrhGIpQJv6AbIdLkPW0Y2BRTJ944MYhgyzoQLfIshdqQ/viewform?usp=sf_link)
 
 
 ## In-class Exercise
