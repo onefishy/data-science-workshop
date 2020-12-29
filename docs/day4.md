@@ -43,7 +43,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [A Quick Guide on Basic Regularization Methods for Neural Networks](https://medium.com/yottabytes/a-quick-guide-on-basic-regularization-methods-for-neural-networks-e10feb101328)
   - [L1 and L2 Regularization](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1ZrsQkpONn5iiH2aW_BVK9DGgAg60Seyb/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfXWRXSTJNsKSg4e0CLXsc9YqyfuuJZunKGtSEkE9_Cu-VSug/viewform?usp=sf_link)
   
 ## **Topic 4:** Encoding and Transforming Data
 
@@ -54,7 +54,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1jToQAmNWxxjZDNGOnwN6qV_BSB045uy0/view?usp=sharing)
 - **References:** 
   - [One-hot encoding of categorical data in python](https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e)
-- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfXWRXSTJNsKSg4e0CLXsc9YqyfuuJZunKGtSEkE9_Cu-VSug/viewform?usp=sf_link)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc50cp6NMwjyBqoypLTTzEn16-boJu7TD0-Stee04wjg8mk4w/viewform?usp=sf_link)
   
 ## **Topic 5:** Pre-Processing Data
 
