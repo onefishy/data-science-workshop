@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3
   - [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1HAvvN8DkkB_Q14GN8RzBkg33w565Io2R/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/Wz31iaGMWgjR4KRk6)
   
 ## **Topic 5:** Gradient Descent
 
