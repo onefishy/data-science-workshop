@@ -48,7 +48,7 @@ materials for teaching these data science concepts to their own students.
   - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
   - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/18qmg6AIJgetx0uCZ7YKco8w4FN7TSTit/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSf-Lqo3ODY01KltOTXoaRy9H5OTYRkb-SLez0OeC_nx6IpgTA/viewform?usp=sf_link)
 
 ## **Topic 4:** Probabilistic Models for Regression
 
@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 2.1, 3.1, 3.2, 7.1
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1tAfGMbMGWYyAmhSZSQfnA4LhWC8bifuw/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfGWG7KX_uf0WY5R3J0jpqVUcuK-fAqAVQh0F_CH4_kh0BUAg/viewform?usp=sf_link)
     
 ## **Topic 5:** Probabilistic Models for Regression
 
@@ -70,7 +70,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hxPra-g7I343V27VBddHJZfc4SI7j1dy/view?usp=sharing)
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.1
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1Ndikkea8rPOdQS7R9Mp4m6f3dE1cGqtl/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdoWUOvW6gXbYShdxHWCp4TC-BLwMtvc1W4YGzBolF1PKkMig/viewform?usp=sf_link)
   
 ## **Topic 6:** k-Nearest Neighbor Regression
 - **Lecture Video:**  <br>
@@ -80,7 +80,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1Za_ltHSdbwcVeGDh5JyfsHkTTdEbstgl/view?usp=sharing)
 - **References:** 
   - [K-Neighbors Regression Analysis in Python](https://medium.com/analytics-vidhya/k-neighbors-regression-analysis-in-python-61532d56d8e4)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1boYTLq6tSorphrbDIWoa6cjye-4tNaOl/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd4uWwTrAD3DcmfOmyX3I05WSxAPLqXPP6bMqJtoQzml-AFsQ/viewform?usp=sf_link)
 
 
 ## In-class Exercise
