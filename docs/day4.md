@@ -32,7 +32,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1xRGszrVXXdtpJiur2yL9-mQKH2y63ia9/view?usp=sharing)
 - **References:** 
   - [Interpretable Neural Networks](https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1Jz-vTfh3lM4_xcV0eMcOGJrftX-6dnTG/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSduOiRxej0nPsLk3Zc-0XPGqjiEzQN2OXnh7SHHFpa60eSvfQ/viewform?usp=sf_link)
   
 ## **Topic 3:**  Regularization for Neural Networks
 - **Lecture Video:** <br>
