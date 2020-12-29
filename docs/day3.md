@@ -24,7 +24,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.2, 8.1.3, 8.1.4
   - [Decision Trees in Machine Learning](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1NYSFjnC7PWAG6hYPWufnqo4vDH8ew4aA/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScU_kxRK5uNThepAtAf52Yhreg2FZMaiolSbV612bbssJr1Gg/viewform?usp=sf_link)
     
 ## **Topic 2:**  Hyper-parameter Selection and Variance Reduction
 
