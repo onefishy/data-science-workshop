@@ -22,7 +22,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
   - [Bootstrapping for Linear Regression](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1tNBx0VYsHyXAbnWrN3kjSc44y_TmwAIC/view?usp=sharing)  
+- **Concept Quiz:** [Quiz](https://forms.gle/QJyZT5ug6aKTve9w7)  
   
 ## **Topic 2:**  Bias versus Variance
 - **Lecture Video:** <br>
