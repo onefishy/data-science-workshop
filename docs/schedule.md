@@ -17,26 +17,26 @@ During the afternoon session of each day, participants will discuss how to adapt
 <table>
   <tr>
     <td><b>Day 0</b></td>
-    <td>[Prepare for the workshop](./day0.html)</td>
+    <td><a href="./day0.html">Prepare for the workshop</a></td>
   </tr>
   <tr>
     <td><b>Day 1</b></td>
-    <td>[Models for Regression](./day1.html)</td>
+    <td><a href="./day1.html">Models for Regression</a></td>
   </tr>
   <tr>
     <td><b>Day 2</b></td>
-    <td>[Models for Classification](./day2.html)</td>
+    <td><a href="./day2.html">Models for Classification</a></td>
   </tr>
   <tr>
     <td><b>Day 3</b></td> 
-    <td>[Neural Networks Models](./day3.html)</td>
+    <td><a href="./day3.html">Neural Networks Models]</a></td>
   </tr>
   <tr>
     <td><b>Day 4</b></td> 
-    <td>[More on Neural Networks & Dimensionality Reduction](./day4.html)</td>
+    <td><a href="./day4.html">More on Neural Networks & Dimensionality Reduction</a></td>
   </tr>
   <tr>
     <td><b>Day 5</b></td> 
-    <td>[Topics in Machine Learning](./day5.html)</td>
+    <td><a href="./day5.html">Topics in Machine Learning</a></td>
   </tr>
 </table>
