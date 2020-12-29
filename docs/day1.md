@@ -48,7 +48,7 @@ materials for teaching these data science concepts to their own students.
   - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
   - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
   
-- **Concept Quiz:** [Quiz](https://forms.gle/tnZSKR7sY4Aaa5Cv9)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSf-Lqo3ODY01KltOTXoaRy9H5OTYRkb-SLez0OeC_nx6IpgTA/viewform?usp=sf_link)
 
 ## **Topic 4:** Probabilistic Models for Regression
 
@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 2.1, 3.1, 3.2, 7.1
   
-- **Concept Quiz:** [Quiz](https://forms.gle/mPCASfcVwL9qDEr77)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfGWG7KX_uf0WY5R3J0jpqVUcuK-fAqAVQh0F_CH4_kh0BUAg/viewform?usp=sf_link)
     
 ## **Topic 5:** Probabilistic Models for Regression
 
