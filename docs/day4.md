@@ -106,6 +106,6 @@ materials for teaching these data science concepts to their own students.
 
 
 ## In-Class Exercise
-1. [Neural Networks for Classification](https://colab.research.google.com/drive/1XLJUE69QHJC-o_oCHk3LkspTR4S5iBa_?usp=sharing)
-2. [Data Preprocessing and Model Interpretation Notebook](https://colab.research.google.com/drive/13HDsKpgCduOKiSJL8VG-KopJTOyX5Meh?usp=sharing)
-3. [PCA and Dimensionality Reduction](https://colab.research.google.com/drive/18_yrbsoTEw6e0oURuOlMt1QRDHll9nV8?usp=sharing)
+1. [Neural Networks for Classification](https://deepnote.com/project/89d5670d-7b6d-418f-ba40-d044773a4988)
+2. [Data Preprocessing and Model Interpretation Notebook](https://deepnote.com/project/690d3fcf-e561-4146-a003-4fce7c0388f6)
+3. [PCA and Dimensionality Reduction](https://deepnote.com/project/1e755c61-9ca0-40bb-b2e2-4c3862b53690)
