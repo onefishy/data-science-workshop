@@ -2,8 +2,7 @@
 
 On this day, we will cover probabilistic and non-probabilistic models for regression. The materials will be broken down into
 a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there
-will be a short concept-check quiz for the viewer to test their understanding. These materials are taken from [an intensive
-summer data science course](https://onefishy.github.io/Rwanda-Data-Science/) run by IACS and the University of Rwanda. These
+will be a short concept-check quiz for the viewer to test their understanding. These materials are taken from [DSC6232 Machine Learning and Computational Statistics](https://onefishy.github.io/Rwanda-Data-Science/), an intensive summer data science course run by IACS and the University of Rwanda. These
 materials serve as either an introduction of new data science concepts to participants ***or*** as a foundation for
 discussion amongst participants on how to present these concepts to their own students.
 
