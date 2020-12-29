@@ -34,7 +34,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1g4O2X_ahORXTjImAZteADHGEht__MLs4/view?usp=sharing) 
+- **Concept Quiz:** [Quiz](https://forms.gle/Pi8BsYewBcWUk4F18) 
   
 ## **Topic 3:**  Variance Reduction
 - **Lecture Video:** <br>
