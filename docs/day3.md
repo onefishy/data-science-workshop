@@ -35,7 +35,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.2.1, 8,2,2, 5.1, 5.2
   - [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1INhCS0F7BfoCtvNIF8IBPlrrIBLQ60K7/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScTtjpHg4svVZ6DETiyW9gaHghrTg63wSOyjWzrFkd-AAtEtQ/viewform?usp=sf_link)
     
 ## **Topic 3:** Evaluating Classifiers
 
