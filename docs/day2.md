@@ -46,7 +46,7 @@ materials for teaching these data science concepts to their own students.
   - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AjhZDbSOMEWhIYg1NGrZgFbnCqJiJv03/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/mxchkYd9SZoWFbb48)
 
 ## **Topic 4:** Models for Classification
 
