@@ -34,7 +34,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1g4O2X_ahORXTjImAZteADHGEht__MLs4/view?usp=sharing) 
+- **Concept Quiz:** [Quiz](https://forms.gle/Pi8BsYewBcWUk4F18) 
   
 ## **Topic 3:**  Variance Reduction
 - **Lecture Video:** <br>
@@ -46,7 +46,7 @@ materials for teaching these data science concepts to their own students.
   - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AjhZDbSOMEWhIYg1NGrZgFbnCqJiJv03/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/mxchkYd9SZoWFbb48)
 
 ## **Topic 4:** Models for Classification
 
@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3
   - [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1HAvvN8DkkB_Q14GN8RzBkg33w565Io2R/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/Wz31iaGMWgjR4KRk6)
   
 ## **Topic 5:** Gradient Descent
 
@@ -70,8 +70,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1EVGhfpPU_tl1EuI0XkZRfvCO89FqLmLE/view?usp=sharing)
 - **References:** 
   - [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1G3NhjQk_TXFjf1dE_famNxw3YhDN_CYe/view?usp=sharing)
-  
+- **Concept Quiz:** [Quiz](https://forms.gle/4SqHyvKJEQSFGbWm9)
+
 ## **Topic 6:** Evaluating and Interpreting Classifiers
 
 - **Lecture Video:** <br>
