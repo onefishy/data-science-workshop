@@ -48,7 +48,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1jQ-ZwjuzIMN5t0yXxkK2kk3QF0KYdPnU/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe6yDU-_h_hsxEdZeV6d8boYE5DuXzzFs7-jjave0Exh-AEBQ/viewform?usp=sf_link)
 
 ## **Topic 4:** Neural Networks for Regression
 
