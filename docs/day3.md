@@ -69,8 +69,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1JqUUfqj81ioExFhyTwBw8HYpbj__7uMF/view?usp=sharing)
 - **References:** 
   - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1C4ZvM2zyVZsO68NuXbawtBLg7QyZKVzs/view?usp=sharing)
-    
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3z0gXS7ep0CTjmsTGUXf5rsbAW-gfuMwJtVcj7qB-fFAXAQ/viewform?usp=sf_link)
+
 #### **Topic 6:** Implementing Neural Networks in `keras`
 - **Lecture Video:** <br>
 [![Alt text](https://img.youtube.com/vi/sbg9y4L1sKo/0.jpg)](https://youtu.be/sbg9y4L1sKo) <br>
