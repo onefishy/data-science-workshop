@@ -67,7 +67,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1fwey99oywsJSvpf--ivDAJ_WiyWGqbGp/view?usp=sharing)
 - **References:** 
   - [Bayesian Inference Problem: MCMC Sampling and Variational Inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1wmbxL-rSPqXh4zKnW0GVe-mBAHlp-WeN/view?usp=sharing) 
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSePX7d8PO6ZRylwBerAVa7ZklZPii4mHK18S0rvZGBgcLoapw/viewform?usp=sf_link) 
 
     
 ## In-class Exercise
