@@ -35,7 +35,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1bz9o03V9FOl-vvpWzBIt5uLwYZo5Vl53/view?usp=sharing)
 - **References:** 
   - [Simple Linear Regression - Do It the Bayesian Way!](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1-jLcKiOzT82Lmnzj_lUB24yCyQF4LmV6/view?usp=sharing) 
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeuf-pYY3f2BMeGfLDUuDTp5haCI37znil6Lh8UHYnlCdSWpQ/viewform?usp=sf_link) 
     
 ## **Topic 3:**  Interpreting the Posterior Predictive
 - **Lecture Video:** <br>
