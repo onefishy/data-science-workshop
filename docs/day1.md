@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 2.1, 3.1, 3.2, 7.1
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1tAfGMbMGWYyAmhSZSQfnA4LhWC8bifuw/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/mPCASfcVwL9qDEr77)
     
 ## **Topic 5:** Probabilistic Models for Regression
 
