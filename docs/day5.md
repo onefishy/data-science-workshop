@@ -56,7 +56,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1c9TBPPaLICFIeKU57ne66chWgvR_nyu_/view?usp=sharing)
 - **References:** 
   - [A Short Story on Bayesian vs Frequentist Statistics](https://medium.com/analytics-vidhya/a-short-story-on-bayesian-vs-frequentist-statistics-27f55ae56253)
-- **Concept Quiz:** [Quiz]() 
+- **No Concept Quiz for this topic.** 
   
 ## **Topic 5:**  Bayesian Logistic Regression
 
