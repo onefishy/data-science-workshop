@@ -23,7 +23,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/16H8wMry5XaQ7vpmDUg3iMUxrQfTzLuvz/view?usp=sharing)
 - **References:** 
   - [Get Started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/11WAW1mQV49LD01_xfH7h9z5t6bUfet7r/view?usp=sharing)  
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeP7SUBIUl3J2hPyGtLNSnfs_Tu0lX3Yqk7_CPD9x5XK8NqIg/viewform?usp=sf_link)  
   
     
 ## **Topic 2:** Bayesian Linear and Polynomial Regression
