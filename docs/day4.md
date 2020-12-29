@@ -67,7 +67,7 @@ materials for teaching these data science concepts to their own students.
   - [Data Pre-processing with `python`](https://medium.com/@kesarimohan87/data-preprocessing-6c87d27156)
   - [Examples Code with for Data Encoding and Data Pre-Processing](https://colab.research.google.com/drive/1ecT7PWP8CATWVVpLz-V2K_2q_3NrSDiN?usp=sharing)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AEkNodGbfEfoPCKCrUfGq2FCfGU4YNyU/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScThZWb1PXhT-Q77nMugek7HTHpJYxo4_GqDBIewn6YSMmf9w/viewform?usp=sf_link)
   
 ## **Topic 6:** Sources of Bias in Model Interpretation and Usage
 
