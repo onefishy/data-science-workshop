@@ -48,7 +48,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1jQ-ZwjuzIMN5t0yXxkK2kk3QF0KYdPnU/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe6yDU-_h_hsxEdZeV6d8boYE5DuXzzFs7-jjave0Exh-AEBQ/viewform?usp=sf_link)
 
 ## **Topic 4:** Neural Networks for Regression
 
@@ -58,8 +58,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1-oDJEzReIyNsmakv6LtS0dP27tmU3V1v/view?usp=sharing)
 - **References:** 
   - [The Math behind Artificial Neural Networks](https://towardsdatascience.com/the-heart-of-artificial-neural-networks-26627e8c03ba)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/16ExIOwoZ1DheuRKIMz92GPw64qOXdTrg/view?usp=sharing)
-    
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7Ynz47sC_1_EHdSp1IusBF2Ulo5hdTZt-S2xfNVQhYMLmCw/viewform?usp=sf_link)
+
 ## **Topic 5:** Optimizing Neural Networks
 
 - **Lecture Video:** <br>
@@ -69,8 +69,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1JqUUfqj81ioExFhyTwBw8HYpbj__7uMF/view?usp=sharing)
 - **References:** 
   - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1C4ZvM2zyVZsO68NuXbawtBLg7QyZKVzs/view?usp=sharing)
-    
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3z0gXS7ep0CTjmsTGUXf5rsbAW-gfuMwJtVcj7qB-fFAXAQ/viewform?usp=sf_link)
+
 #### **Topic 6:** Implementing Neural Networks in `keras`
 - **Lecture Video:** <br>
 [![Alt text](https://img.youtube.com/vi/sbg9y4L1sKo/0.jpg)](https://youtu.be/sbg9y4L1sKo) <br>
@@ -79,7 +79,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1OsENAg2OdIVoJwE50g6Q37i_msEZxRzC/view?usp=sharing)
 - **References:** 
   - [Building Neural Network using keras for Regression](https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-regression-ceee5a9eadff)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1I_PTktQTRxWArAefHm6uX5OiEWnK36q9/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdJvWwrhGIpQJv6AbIdLkPW0Y2BRTJ944MYhgyzoQLfIshdqQ/viewform?usp=sf_link)
 
 
 ## In-class Exercise
