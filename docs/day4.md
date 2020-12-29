@@ -78,7 +78,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1tFkHT1-TLzdS725yFdy6p4Bo_ePaNn2d/view?usp=sharing)
 - **References:** 
   - [Dealing with Data Imbalance](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1lJvr_ud1HXE2OkcncZbT0pXDtayqphcx/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSddbPPwJSi0aiXa_yeBiffoJWMOaLbbgfm4exGjHICJDeyXIg/viewform?usp=sf_link)
 
 
 ## **Topic 7:** Variable Selection
