@@ -91,7 +91,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Feature Selection Using `sklearn`](https://medium.com/analytics-vidhya/feature-selection-using-scikit-learn-5b4362e0c19b)
   
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1lUouxngHrVultdEHHN99DGZuQrQIhRXs/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdH09J_WIl-0OBkJWJtJVQvPnq8x5eInKXLTs2M9U02xI7tgg/viewform?usp=sf_link)
     
 ## **Topic 8:**  Principal Component Analysis
 
