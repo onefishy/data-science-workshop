@@ -88,6 +88,6 @@ materials for teaching these data science concepts to their own students.
 
 ## In-Class Exercise
 
-1. [Generalization and Uncertainty](https://colab.research.google.com/drive/1ct6V9JfgyJcdOz5iZ6gmXyxZr-XslU90?usp=sharing)
-2. [Notebook on Classification](https://colab.research.google.com/drive/1M4m8oduvSjMPLoB8CP0l6pwmY36ykvdy?usp=sharing)
+1. [Generalization and Uncertainty](https://deepnote.com/project/1163d467-eac1-4050-a6cd-e7900d87eaaa)
+2. [Notebook on Classification](https://deepnote.com/project/8f461b17-dac5-4061-ac40-1437b36c846a)
 
