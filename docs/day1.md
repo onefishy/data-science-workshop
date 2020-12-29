@@ -70,7 +70,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hxPra-g7I343V27VBddHJZfc4SI7j1dy/view?usp=sharing)
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.1
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1Ndikkea8rPOdQS7R9Mp4m6f3dE1cGqtl/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/CSVEZd6qGMswftrS7)
   
 ## **Topic 6:** k-Nearest Neighbor Regression
 - **Lecture Video:**  <br>
