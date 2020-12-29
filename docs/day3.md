@@ -84,5 +84,5 @@ materials for teaching these data science concepts to their own students.
 
 
 ## In-class Exercise
-1. [Non Probabilistic Classifiers and Model Evaluation](https://colab.research.google.com/drive/1wQD0VB5iBXE30vfNewOR_oqTNbQ8wTVu?usp=sharing)
-2. [Neural Networks for Regression](https://colab.research.google.com/drive/1AjCGaybaM98Fgjy1cnAwkQqVjYYqbwtI?usp=sharing)
+1. [Non Probabilistic Classifiers and Model Evaluation](https://deepnote.com/project/aa4ceb92-4323-4985-bc06-aa8df6ee45ca)
+2. [Neural Networks for Regression](https://deepnote.com/project/523bbc1e-4b14-424b-917a-c39eced4f667)
