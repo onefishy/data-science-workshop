@@ -45,7 +45,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1f0IP811JQ5KQODrPEWpChj3KdxJToKmf/view?usp=sharing)
 - **References:** 
   - [Bayesian Inference for Machine Learning](https://wso2.com/blog/research/part-two-linear-regression)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1EngMVNHFupEQ2VDmi8N0LX4Nw4tIxfZ4/view?usp=sharing) 
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSciFhnmbW1fuEoyBbkhZTpY6VhDX4ozDX95_pA7AteJLmXWRA/viewform?usp=sf_link) 
 
 ## **Topic 4:**   Connecting Bayesian and Non-Bayesian Models
 
