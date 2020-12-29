@@ -2,7 +2,7 @@
 
 The workshop materials are taken from [DSC6232 Machine Learning and Computational Statistics](https://onefishy.github.io/Rwanda-Data-Science/), an intensive summer data science course run by IACS and the University of Rwanda. We believe that these materials can be useful starting points for all participants, regardless of background. Specifically, the workshop materials serve as either an introduction of new data science concepts or as a foundation for discussions on pedagogical practices in data science. 
 
-The materials will be broken down into a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there will be a short concept-check quiz for the viewer to test their understanding. Participants are expected to have reviewed the content 
+The materials will be broken down into a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there will be a short concept-check quiz for the viewer to test their understanding. 
 
 The workshop structure is based on the format of a “flipped-classroom”. We ask that participants review the technical content (videos, slides etc) prior to each day, and work on hands-on activities during workshop sessions. There will be two workshop sessions per day. Each session will be hands-on activities centering around content exploration or pedagogy.
 

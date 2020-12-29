@@ -81,7 +81,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1UNFyt42euWHJ_3bE5uhfLv04yThag9_2/view?usp=sharing)
 - **References:** 
   - [Interpreting the Imapact Size of Logistic Regression Coefficients](https://medium.com/ro-data-team-blog/interpret-the-impact-size-with-logistic-regression-coefficients-5eec21baaac8)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1-GQk1n8_NXFl-1m6sctcSNLHFPeQIPRf/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/z83BB3i2F2tCKfED9)
 
 
 ## In-Class Exercise
