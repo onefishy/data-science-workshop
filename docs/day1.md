@@ -23,7 +23,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1cR8COSU8DB7S8dJsbHc68rDN-EXUezI_/view?usp=sharing)
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 1
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1LMpuC_kCn0GavSA4lPO5jcksU54vPSZB/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/gMo9n9UmWZCM5qTt7)
 
 ## **Topic 2:** Linear Regression
 
@@ -33,9 +33,9 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1YkXHgzs5OJ3SPwmz18X7I6bmqjoIwG02/view?usp=sharing)
 - **References:** 
   - [Linear Regression Using Python](https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1mMbsehL5vDb4rGw_Wphs3oXodf6Xtr_O/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://forms.gle/GZzM4c9WKXpXt36H9)
 
-## **Topic 3:** Polynomial Regression
+## **Topic 3:** Multi-Linear and Polynomial Regression
 
 - **Lecture Video:**  <br>
 [![Alt text](https://img.youtube.com/vi/MnfjfarIklQ/0.jpg)](https://youtu.be/MnfjfarIklQ)  <br>
