@@ -101,7 +101,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/138g42wdpayZtZS1RjgNq21-FPa4GMYtF/view?usp=sharing)
 - **References:** 
   - [Principal Component Analysis in Machine Learning](https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1oxGKKnUEYJY2yLnCmp_slSsviZZD-F6H/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScikVtU_hjzDD62WO-xEa31BabefhRaGndwTmaZJ5xAUB-efw/viewform?usp=sf_link)
 
 
 ## In-Class Exercise
