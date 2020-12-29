@@ -22,7 +22,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1zlxz605k9Ge-SDcr9i2McN7sZiGtXjJ0/view?usp=sharing)
 - **References:** 
   - [Building our first neural network in keras](https://towardsdatascience.com/building-our-first-neural-network-in-keras-bdc8abbc17f5)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1f3M6-NB6C5wFv1cmPgpIDH8JmocRMFR1/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc3IULZB3DpHRhnh_5yT6Rgt7fO5xonwLCccUfyjMKWvHN7dw/viewform?usp=sf_link)
   
 ## **Topic 2:**  Interpreting Neural Networks
 - **Lecture Video:** <br>
