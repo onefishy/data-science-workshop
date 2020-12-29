@@ -54,7 +54,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1jToQAmNWxxjZDNGOnwN6qV_BSB045uy0/view?usp=sharing)
 - **References:** 
   - [One-hot encoding of categorical data in python](https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1ar8hcy3lLRn-zbxRoTUBYb0ndZZEGCed/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfXWRXSTJNsKSg4e0CLXsc9YqyfuuJZunKGtSEkE9_Cu-VSug/viewform?usp=sf_link)
   
 ## **Topic 5:** Pre-Processing Data
 
