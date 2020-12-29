@@ -72,5 +72,5 @@ materials for teaching these data science concepts to their own students.
 
     
 ## In-class Exercise
-1. [Bayesian Linear and Polynomial Regression](https://colab.research.google.com/drive/1SDMgzICrxLEbKLojjuRf8ptrvqKNJ2Fk?usp=sharing)
-2. [Bayesian Versus Frequentist Uncertainties](https://colab.research.google.com/drive/1atbjDrcwJ0RLHa5tV8fY8tSgfb67FcqA?usp=sharing)
+1. [Bayesian Linear and Polynomial Regression](https://deepnote.com/project/810272fe-597e-48dd-b4fb-638fc683fb17)
+2. [Bayesian Versus Frequentist Uncertainties](https://deepnote.com/project/752b5e7e-eb09-4b4b-a3af-89ef382feee7)
