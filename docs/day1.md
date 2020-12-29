@@ -70,7 +70,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hxPra-g7I343V27VBddHJZfc4SI7j1dy/view?usp=sharing)
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.1
-- **Concept Quiz:** [Quiz](https://forms.gle/CSVEZd6qGMswftrS7)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdoWUOvW6gXbYShdxHWCp4TC-BLwMtvc1W4YGzBolF1PKkMig/viewform?usp=sf_link)
   
 ## **Topic 6:** k-Nearest Neighbor Regression
 - **Lecture Video:**  <br>
@@ -80,7 +80,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1Za_ltHSdbwcVeGDh5JyfsHkTTdEbstgl/view?usp=sharing)
 - **References:** 
   - [K-Neighbors Regression Analysis in Python](https://medium.com/analytics-vidhya/k-neighbors-regression-analysis-in-python-61532d56d8e4)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1boYTLq6tSorphrbDIWoa6cjye-4tNaOl/view?usp=sharing)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd4uWwTrAD3DcmfOmyX3I05WSxAPLqXPP6bMqJtoQzml-AFsQ/viewform?usp=sf_link)
 
 
 ## In-class Exercise
