@@ -58,8 +58,8 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1-oDJEzReIyNsmakv6LtS0dP27tmU3V1v/view?usp=sharing)
 - **References:** 
   - [The Math behind Artificial Neural Networks](https://towardsdatascience.com/the-heart-of-artificial-neural-networks-26627e8c03ba)
-- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/16ExIOwoZ1DheuRKIMz92GPw64qOXdTrg/view?usp=sharing)
-    
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7Ynz47sC_1_EHdSp1IusBF2Ulo5hdTZt-S2xfNVQhYMLmCw/viewform?usp=sf_link)
+
 ## **Topic 5:** Optimizing Neural Networks
 
 - **Lecture Video:** <br>
