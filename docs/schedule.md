@@ -10,7 +10,7 @@ The workshop structure is based on the format of a “flipped-classroom”. We a
 
 During the morning session of each day, participants will explore a Deepnote notebooks that puts these concepts together in ways that expose interesting properties of models and algorithms.
 
-**Afternoon Session: 5:00 AM - 8:00 PM Eastern Time**
+**Afternoon Session: 5:00 PM - 8:00 PM Eastern Time**
 
 During the afternoon session of each day, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
 
