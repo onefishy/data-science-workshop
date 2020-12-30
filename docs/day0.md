@@ -14,7 +14,7 @@ Finally, we will be working with random variables in this workshop and will be r
 1. [Probability distributions in python](https://www.datacamp.com/community/tutorials/probability-distributions-python)
 
 ## Skills Check for Participants
-You might find the following Colab notebook useful to get a sense of the types of computational tasks that we will be using during the workshop
+You might find the following Deepnote notebook useful to get a sense of the types of computational tasks that we will be using during the workshop
 
 [Introduction to Deepnote Notebook and `python` Libraries for Data Science](https://deepnote.com/project/92d5bb62-1707-4095-b837-794234097fd6)
 
