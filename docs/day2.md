@@ -22,7 +22,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
   - [Bootstrapping for Linear Regression](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
-- **Concept Quiz:** [Quiz](https://forms.gle/QJyZT5ug6aKTve9w7)  
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdzgyPK5EIncWJsFsvtae4azgu3ILTmFy8zeri4zVrEOI8yww/viewform?usp=sf_link)  
   
 ## **Topic 2:**  Bias versus Variance
 - **Lecture Video:** <br>
@@ -34,7 +34,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
-- **Concept Quiz:** [Quiz](https://forms.gle/Pi8BsYewBcWUk4F18) 
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd8Lqy2yU60_jQgVMdTprucIAS4eg7_Y3FoIc8wkx-v7LLmqg/viewform?usp=sf_link) 
   
 ## **Topic 3:**  Variance Reduction
 - **Lecture Video:** <br>
@@ -46,7 +46,7 @@ materials for teaching these data science concepts to their own students.
   - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
   
-- **Concept Quiz:** [Quiz](https://forms.gle/mxchkYd9SZoWFbb48)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfDUYEIELn8Fnq6qjZgcAEqfbU6IXu0F9TPC_eH3fSNHZFV9Q/viewform?usp=sf_link)
 
 ## **Topic 4:** Models for Classification
 
@@ -59,7 +59,7 @@ materials for teaching these data science concepts to their own students.
   - "Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3
   - [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
   
-- **Concept Quiz:** [Quiz](https://forms.gle/Wz31iaGMWgjR4KRk6)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdAKzqIyvtUTpI0XxUGd--umW-7nXbXIwx6JWlD4IOD7bBZig/viewform?usp=sf_link)
   
 ## **Topic 5:** Gradient Descent
 
@@ -70,7 +70,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1EVGhfpPU_tl1EuI0XkZRfvCO89FqLmLE/view?usp=sharing)
 - **References:** 
   - [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
-- **Concept Quiz:** [Quiz](https://forms.gle/4SqHyvKJEQSFGbWm9)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdVrZMtU6-4C9ml6O3x2geQMqXv8ACY8yoSxy_5JgZa9dQWig/viewform?usp=sf_link)
 
 ## **Topic 6:** Evaluating and Interpreting Classifiers
 
@@ -81,7 +81,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1UNFyt42euWHJ_3bE5uhfLv04yThag9_2/view?usp=sharing)
 - **References:** 
   - [Interpreting the Imapact Size of Logistic Regression Coefficients](https://medium.com/ro-data-team-blog/interpret-the-impact-size-with-logistic-regression-coefficients-5eec21baaac8)
-- **Concept Quiz:** [Quiz](https://forms.gle/z83BB3i2F2tCKfED9)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdBE5V-_xHRbxAdoI564IY3T4OFyoFSBTeosq7y5PdSa0wX2w/viewform?usp=sf_link)
 
 
 ## In-Class Exercise
