@@ -29,7 +29,7 @@ During the afternoon session of each day, participants will discuss how to adapt
   </tr>
   <tr>
     <td><b>Day 3</b></td> 
-    <td><a href="./day3.html">Neural Networks Models]</a></td>
+    <td><a href="./day3.html">Neural Networks Models</a></td>
   </tr>
   <tr>
     <td><b>Day 4</b></td> 
