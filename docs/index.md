@@ -7,8 +7,6 @@ The goals of the workshop are to:
 2. expose data science educators to current "state-of-the-art" methodologies and tools in data science
 3. facilitate a supportive environment for educators to develop data science pedagogical materials that are customized to the needs of their own students. 
 
-[**Workshop Schedule:**](./schedule-html)
-
 ### Organizers
 
 This workshop is organized by the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University. 
