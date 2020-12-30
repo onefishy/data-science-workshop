@@ -4,6 +4,7 @@ It would be helpful for participants to have some familiarity in `python` progra
 1. [`pandas` Basics](https://www.learnpython.org/en/Pandas_Basics)
 2. [`numpy` Basics](https://cs231n.github.io/python-numpy-tutorial/)
 3. [`matplotlib` Basics](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+
 For this workshop, we will be using [DeepNote](https://deepnote.com/) - a free cloud computing service that comes with pre-installed machine learning tools. Deepnote allows you to easily work on your data science projects, together in real-time and in one place with your friends and colleagues. It allows you to create and share documents that contain live code, equations, visualizations and narrative text. You can familiarize yourself with the interface of DeepNote notebooks by reading the following tutorials (remember you don't need to install anything!):
 
 1. [Deepnote: the modern way to teach Data Science](https://medium.com/@robertlacok/deepnote-the-modern-way-to-teach-data-science-99998ce659a)
