@@ -32,7 +32,7 @@ The workshop structure is based on the format of a “flipped-classroom”. We a
 
 **Afternoon Session: 5:00 PM - 8:00 PM Eastern Time** During the afternoon session of each day, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
 
-The materials and full schedule for the workshop can be found here: [workshop day-by-day schedule](./schedule.html)
+The materials and full schedule for the workshop can be found here: [Workshop Day-by-Day Schedule](./schedule.html)
 
 ### Important Dates 
 
