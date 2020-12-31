@@ -28,13 +28,9 @@ Workshop organizational/teaching staff:
 ### Workshop Schedule
 The workshop structure is based on the format of a “flipped-classroom”. We ask that participants review the technical content (videos, slides etc) prior to each day, and work on hands-on activities during workshop sessions. There will be two workshop sessions per day. Each session will be hands-on activities centering around content exploration or pedagogy.
 
-Morning Session: 11:00 AM - 3:00 PM Eastern Time
+**Morning Session: 11:00 AM - 3:00 PM Eastern Time** During the morning session of each day, participants will explore a Deepnote notebooks that puts these concepts together in ways that expose interesting properties of models and algorithms.
 
-During the morning session of each day, participants will explore a Deepnote notebooks that puts these concepts together in ways that expose interesting properties of models and algorithms.
-
-Afternoon Session: 5:00 PM - 8:00 PM Eastern Time
-
-During the afternoon session of each day, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
+**Afternoon Session: 5:00 PM - 8:00 PM Eastern Time** During the afternoon session of each day, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
 
 The materials and full schedule for the workshop can be found here: [workshop day-by-day schedule](./schedule.html)
 
