@@ -22,7 +22,7 @@ materials for teaching these data science concepts to their own students.
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1cR8COSU8DB7S8dJsbHc68rDN-EXUezI_/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 1
+  - ["Introduction to Statistical Learning": Chapter 1](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
 - **Concept Quiz:** [Quiz](https://forms.gle/gMo9n9UmWZCM5qTt7)
 
 ## **Topic 2:** Linear Regression
@@ -57,7 +57,7 @@ materials for teaching these data science concepts to their own students.
 (24:46 minutes)
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/10wbwl8Lp-aDM2AQKiuIDb2hdKL8HhvgU/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 2.1, 3.1, 3.2, 7.1
+  - ["Introduction to Statistical Learning": Chapter 2.1, 3.1, 3.2, 7.1](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfGWG7KX_uf0WY5R3J0jpqVUcuK-fAqAVQh0F_CH4_kh0BUAg/viewform?usp=sf_link)
     
@@ -69,7 +69,7 @@ materials for teaching these data science concepts to their own students.
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hxPra-g7I343V27VBddHJZfc4SI7j1dy/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 8.1.1
+  - ["Introduction to Statistical Learning": Chapter 8.1.1](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdoWUOvW6gXbYShdxHWCp4TC-BLwMtvc1W4YGzBolF1PKkMig/viewform?usp=sf_link)
   
 ## **Topic 6:** k-Nearest Neighbor Regression
