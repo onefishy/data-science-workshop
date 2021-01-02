@@ -31,7 +31,7 @@ materials for teaching these data science concepts to their own students.
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1wVMVJ7rU0HjD_DCOP_yjPZcqJCPeA1Gm/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 2.2
+  - ["Introduction to Statistical Learning": Chapter 2.2](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd8Lqy2yU60_jQgVMdTprucIAS4eg7_Y3FoIc8wkx-v7LLmqg/viewform?usp=sf_link) 
@@ -56,7 +56,7 @@ materials for teaching these data science concepts to their own students.
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1aq6fj3Gv5wW31j9GN1y5u6-7JrGBi7lk/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3
+  - ["Introduction to Statistical Learning": Chapter 4.1, 4.2, 4.3](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   - [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdAKzqIyvtUTpI0XxUGd--umW-7nXbXIwx6JWlD4IOD7bBZig/viewform?usp=sf_link)
