@@ -39,4 +39,8 @@ During the afternoon session of each day, participants will discuss how to adapt
     <td><b>Day 5</b></td> 
     <td><a href="./day5.html">Topics in Machine Learning</a></td>
   </tr>
+  <tr>
+    <td><b>Day 5</b></td> 
+    <td><a href="./after_the_workshop.html">What Happens After the Workshop?</a></td>
+  </tr>
 </table>
