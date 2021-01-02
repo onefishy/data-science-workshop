@@ -22,7 +22,7 @@ materials for teaching these data science concepts to their own students.
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1taP00yHX7aLVDwMNBkrnBWd3IMimERVi/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 8.1.2, 8.1.3, 8.1.4
+  - ["Introduction to Statistical Learning": Chapter 8.1.2, 8.1.3, 8.1.4](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   - [Decision Trees in Machine Learning](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScU_kxRK5uNThepAtAf52Yhreg2FZMaiolSbV612bbssJr1Gg/viewform?usp=sf_link)
     
@@ -33,7 +33,7 @@ materials for teaching these data science concepts to their own students.
 (9:42 minutes)
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/14W13NJCXSVH1pl6Xx_Yj7Ybwp1wzXAQR/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 8.2.1, 8,2,2, 5.1, 5.2
+  - ["Introduction to Statistical Learning": Chapter 8.2.1, 8,2,2, 5.1, 5.2](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   - [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScTtjpHg4svVZ6DETiyW9gaHghrTg63wSOyjWzrFkd-AAtEtQ/viewform?usp=sf_link)
     
