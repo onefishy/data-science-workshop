@@ -16,7 +16,7 @@ During the afternoon session of each day, participants will discuss how to adapt
 
 <table>
   <tr>
-    <td><b>Day 0</b></td>
+    <td><b>Before the Workshop</b></td>
     <td><a href="./day0.html">Prepare for the workshop</a></td>
   </tr>
   <tr>
