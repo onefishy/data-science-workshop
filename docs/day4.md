@@ -1,10 +1,12 @@
-# Day 4: Neural Network Models for Classification
+# Day 4 (Jan 7th): Neural Network Models for Classification
 
 On this day, we will cover neural network models for classification. The materials will be broken down into a sequence of
 bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there will be a
 short concept-check quiz for the viewer to test their understanding. These materials are taken from [DSC6232 Machine Learning and Computational Statistics](https://onefishy.github.io/Rwanda-Data-Science/), an intensive summer data science course run by IACS and the University of Rwanda. These materials
 serves as either an introduction of new data science concepts to participants ***or*** as a foundation for discussion amongst
 participants on how to present these concepts to their own students.
+
+The workshop follows a **flipped-classroom** structure, so participants should watch the videos and review the materials ***before*** Jan 7th.
 
 #### Morning Session
 During the morning session of Day 4, participants will explore a Deepnote notebook that puts these concepts together in ways
