@@ -91,3 +91,6 @@ materials for teaching these data science concepts to their own students.
 ## Morning Session: Exploratory Notebooks
 1. [Non Probabilistic Classifiers and Model Evaluation](https://deepnote.com/project/aa4ceb92-4323-4985-bc06-aa8df6ee45ca)
 2. [Neural Networks for Regression](https://deepnote.com/project/523bbc1e-4b14-424b-917a-c39eced4f667)
+
+## Afternoon Session: Discussion Topics
+1. [Discussion starter questions](https://docs.google.com/presentation/d/1fP6xmsU8H4YXVR85uLld7JSlc91EdyVCy8vQY_GlZsU/edit?usp=sharing)
