@@ -1,4 +1,4 @@
-# Week 0: Preparing for the Workshop
+# Before the Workshop: Preparing for the Workshop
 
 It would be helpful for participants to have some familiarity in `python` programming. You can familiarize yourself with `python` by completing online tutorials, for example: [https://www.learnpython.org](https://www.learnpython.org). In particular, it's helpful for participants to be able to manipulate data using `pandas` `DataFrames`, perform basic operations with `numpy` Arrays and make use of basic plotting functions (e.g. line chart, histogram, scatter plot, bar chart) from `matplotlib`:
 1. [`pandas` Basics](https://www.learnpython.org/en/Pandas_Basics)
