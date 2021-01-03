@@ -32,6 +32,9 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1xRGszrVXXdtpJiur2yL9-mQKH2y63ia9/view?usp=sharing)
 - **References:** 
   - [Interpretable Neural Networks](https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411)
+  - [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
+  - [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
+  - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSduOiRxej0nPsLk3Zc-0XPGqjiEzQN2OXnh7SHHFpa60eSvfQ/viewform?usp=sf_link)
   
 ## **Topic 3:**  Regularization for Neural Networks
@@ -78,6 +81,12 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1tFkHT1-TLzdS725yFdy6p4Bo_ePaNn2d/view?usp=sharing)
 - **References:** 
   - [Dealing with Data Imbalance](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
+  - [A Classification Procedure for Highly Imbalanced Class Sizes](https://www.tandfonline.com/doi/abs/10.1080/07408170903228967)
+  - [A Framework of Rebalancing Imbalanced Healthcare Data for Rare Event Classification](https://www.hindawi.com/journals/jhe/2018/6275435/)
+  - [Bias in Machine Learning: How Facial Recognition Models Show Signs of Facism, Sexism, and Ageism ](https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d)
+  - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+  - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSddbPPwJSi0aiXa_yeBiffoJWMOaLbbgfm4exGjHICJDeyXIg/viewform?usp=sf_link)
 
 
@@ -104,7 +113,7 @@ materials for teaching these data science concepts to their own students.
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScikVtU_hjzDD62WO-xEa31BabefhRaGndwTmaZJ5xAUB-efw/viewform?usp=sf_link)
 
 
-## In-Class Exercise
+## Morning Session: Exploratory Notebooks
 1. [Neural Networks for Classification](https://deepnote.com/project/89d5670d-7b6d-418f-ba40-d044773a4988)
 2. [Data Preprocessing and Model Interpretation Notebook](https://deepnote.com/project/690d3fcf-e561-4146-a003-4fce7c0388f6)
 3. [PCA and Dimensionality Reduction](https://deepnote.com/project/1e755c61-9ca0-40bb-b2e2-4c3862b53690)
