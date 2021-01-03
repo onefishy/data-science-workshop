@@ -22,6 +22,7 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
   - [Bootstrapping for Linear Regression](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
+  - [Prediction Interval, the Wider Sister of Confidence Interval](https://datascienceplus.com/prediction-interval-the-wider-sister-of-confidence-interval/)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdzgyPK5EIncWJsFsvtae4azgu3ILTmFy8zeri4zVrEOI8yww/viewform?usp=sf_link)  
   
 ## **Topic 2:**  Bias versus Variance
@@ -33,7 +34,8 @@ materials for teaching these data science concepts to their own students.
 - **References:** 
   - ["Introduction to Statistical Learning": Chapter 2.2](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
-  
+  - [Overfitting and Underfitting with Machine Learning Algorithms](https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/)
+  - [Reconciling Modern Machine Learning Practice and the Classical Bias-Variance Tradeoff](https://www.pnas.org/content/116/32/15849)
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd8Lqy2yU60_jQgVMdTprucIAS4eg7_Y3FoIc8wkx-v7LLmqg/viewform?usp=sf_link) 
   
 ## **Topic 3:**  Variance Reduction
@@ -84,7 +86,7 @@ materials for teaching these data science concepts to their own students.
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdBE5V-_xHRbxAdoI564IY3T4OFyoFSBTeosq7y5PdSa0wX2w/viewform?usp=sf_link)
 
 
-## In-Class Exercise
+## Morning Session: Exploratory Notebooks
 
 1. [Generalization and Uncertainty](https://deepnote.com/project/1163d467-eac1-4050-a6cd-e7900d87eaaa)
 2. [Notebook on Classification](https://deepnote.com/project/8f461b17-dac5-4061-ac40-1437b36c846a)
