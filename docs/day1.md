@@ -1,10 +1,12 @@
-# Day 1: Models for Regression
+# Day 1 (Jan 4th): Models for Regression
 
 On this day, we will cover probabilistic and non-probabilistic models for regression. The materials will be broken down into
 a sequence of bite-sized concepts. Each concept will be introduced in a short 10-20 minute video; following each video, there
 will be a short concept-check quiz for the viewer to test their understanding. These materials are taken from [DSC6232 Machine Learning and Computational Statistics](https://onefishy.github.io/Rwanda-Data-Science/), an intensive summer data science course run by IACS and the University of Rwanda. These
 materials serve as either an introduction of new data science concepts to participants ***or*** as a foundation for
 discussion amongst participants on how to present these concepts to their own students.
+
+The workshop follows a **flipped-classroom** structure, so participants should watch the videos and review the materials ***before*** Jan 4th.
 
 #### Morning Session
 During the morning session of Day 1, participants will explore a Deepnote notebook that puts these concepts together in ways
