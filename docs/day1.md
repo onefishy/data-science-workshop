@@ -92,3 +92,7 @@ materials for teaching these data science concepts to their own students.
 ## Morning Session: Exploratory Notebooks
 1. [Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
 2. [Probabilistic Models and Non-Probabilistic Models for Regression](https://deepnote.com/project/1094ffc8-1d4d-42c2-b6dc-d0bc42c73e39)
+
+
+## Afternoon Session: Discussion Topics
+1. [Discussion starter questions](https://docs.google.com/presentation/d/1fP6xmsU8H4YXVR85uLld7JSlc91EdyVCy8vQY_GlZsU/edit?usp=sharing)
