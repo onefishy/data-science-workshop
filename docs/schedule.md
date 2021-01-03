@@ -20,23 +20,23 @@ During the afternoon session of each day, participants will discuss how to adapt
     <td><a href="./day0.html">Prepare for the workshop</a></td>
   </tr>
   <tr>
-    <td><b>Day 1</b></td>
+    <td><b>Day 1 (Jan 4th)</b></td>
     <td><a href="./day1.html">Models for Regression</a></td>
   </tr>
   <tr>
-    <td><b>Day 2</b></td>
+    <td><b>Day 2 (Jan 5th)</b></td>
     <td><a href="./day2.html">Models for Classification</a></td>
   </tr>
   <tr>
-    <td><b>Day 3</b></td> 
+    <td><b>Day 3 (Jan 6th)</b></td> 
     <td><a href="./day3.html">Neural Networks Models</a></td>
   </tr>
   <tr>
-    <td><b>Day 4</b></td> 
+    <td><b>Day 4 (Jan 7th)</b></td> 
     <td><a href="./day4.html">More on Neural Networks & Dimensionality Reduction</a></td>
   </tr>
   <tr>
-    <td><b>Day 5</b></td> 
+    <td><b>Day 5 (Jan 8th)</b></td> 
     <td><a href="./day5.html">Topics in Machine Learning</a></td>
   </tr>
   <tr>
