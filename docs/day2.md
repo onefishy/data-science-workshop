@@ -91,3 +91,5 @@ materials for teaching these data science concepts to their own students.
 1. [Generalization and Uncertainty](https://deepnote.com/project/1163d467-eac1-4050-a6cd-e7900d87eaaa)
 2. [Notebook on Classification](https://deepnote.com/project/8f461b17-dac5-4061-ac40-1437b36c846a)
 
+## Afternoon Session: Discussion Topics
+1. [Discussion starter questions](https://docs.google.com/presentation/d/1fP6xmsU8H4YXVR85uLld7JSlc91EdyVCy8vQY_GlZsU/edit?usp=sharing)
