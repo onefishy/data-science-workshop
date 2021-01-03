@@ -23,6 +23,11 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1cR8COSU8DB7S8dJsbHc68rDN-EXUezI_/view?usp=sharing)
 - **References:** 
   - ["Introduction to Statistical Learning": Chapter 1](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf)
+  - [AlphaFold: a solution to a 50-year-old grand challenge in biology](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
+  - [From Diagnosis to Holistic Patient Care, Machine Learning is Transforming Healthcare](https://www.wired.com/wiredinsider/2019/10/from-diagnosis-to-holistic-patient-care-machine-learning-is-transforming-healthcare/)
+  - [Pasco’s sheriff uses grades and abuse histories to label schoolchildren potential criminals](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data/)
+  - [Predictive policing algorithms are racist. They need to be dismantled](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/)
+  - [Time to reality check the promises of machine learning-powered precision medicine](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30200-4/fulltext)
 - **Concept Quiz:** [Quiz](https://forms.gle/gMo9n9UmWZCM5qTt7)
 
 ## **Topic 2:** Linear Regression
@@ -47,6 +52,7 @@ materials for teaching these data science concepts to their own students.
   - [Polynomial Regression in Python](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
   - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
   - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+  - [Four Assumptions of Multiple Linear Regression that Researchers Should Always Test](https://scholarworks.umass.edu/pare/vol8/iss1/2/)
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSf-Lqo3ODY01KltOTXoaRy9H5OTYRkb-SLez0OeC_nx6IpgTA/viewform?usp=sf_link)
 
@@ -61,7 +67,7 @@ materials for teaching these data science concepts to their own students.
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfGWG7KX_uf0WY5R3J0jpqVUcuK-fAqAVQh0F_CH4_kh0BUAg/viewform?usp=sf_link)
     
-## **Topic 5:** Probabilistic Models for Regression
+## **Topic 5:** Regression Trees
 
 - **Lecture Video:**  <br>
 [![Alt text](https://img.youtube.com/vi/xfjX_uGRC0c/0.jpg)](https://youtu.be/xfjX_uGRC0c)  <br>
@@ -83,6 +89,6 @@ materials for teaching these data science concepts to their own students.
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd4uWwTrAD3DcmfOmyX3I05WSxAPLqXPP6bMqJtoQzml-AFsQ/viewform?usp=sf_link)
 
 
-## In-class Exercise
+## Morning Session: Exploratory Notebooks
 1. [Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
 2. [Probabilistic Models and Non-Probabilistic Models for Regression](https://deepnote.com/project/1094ffc8-1d4d-42c2-b6dc-d0bc42c73e39)
