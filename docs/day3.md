@@ -53,13 +53,7 @@ materials for teaching these data science concepts to their own students.
   
 - **References:** 
   - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
-  - [20 Popular Machine Learning Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
-  - [A Classification Procedure for Highly Imbalanced Class Sizes](https://www.tandfonline.com/doi/abs/10.1080/07408170903228967)
-  - [A Framework of Rebalancing Imbalanced Healthcare Data for Rare Event Classification](https://www.hindawi.com/journals/jhe/2018/6275435/)
-  - [Bias in Machine Learning: How Facial Recognition Models Show Signs of Facism, Sexism, and Ageism ](https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d)
-  - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-  - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
-  
+  - [20 Popular Machine Learning Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)  
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe6yDU-_h_hsxEdZeV6d8boYE5DuXzzFs7-jjave0Exh-AEBQ/viewform?usp=sf_link)
 
 ## **Topic 4:** Neural Networks for Regression
