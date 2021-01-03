@@ -117,3 +117,6 @@ materials for teaching these data science concepts to their own students.
 1. [Neural Networks for Classification](https://deepnote.com/project/89d5670d-7b6d-418f-ba40-d044773a4988)
 2. [Data Preprocessing and Model Interpretation Notebook](https://deepnote.com/project/690d3fcf-e561-4146-a003-4fce7c0388f6)
 3. [PCA and Dimensionality Reduction](https://deepnote.com/project/1e755c61-9ca0-40bb-b2e2-4c3862b53690)
+
+## Afternoon Session: Discussion Topics
+1. [Discussion starter questions](https://docs.google.com/presentation/d/1fP6xmsU8H4YXVR85uLld7JSlc91EdyVCy8vQY_GlZsU/edit?usp=sharing)
