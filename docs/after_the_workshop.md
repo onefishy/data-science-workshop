@@ -15,5 +15,6 @@ We hope that the workshop provides a jumping off point for participants to creat
 4. **References for Data Science ethics and social impact:** 
     - [Reading list from Diversity, Inclusion and Leadership](https://onefishy.github.io/DIL_in_tech/reading_list.html)
     - [Schedule of reading from Diversity, Inclusion and Leadership](https://onefishy.github.io/DIL_in_tech/schedule.html)
+    - [Reading list from Inclusive and Participatory Design in Machine Learning Talk](https://github.com/onefishy/data-science-workshop/blob/master/docs/Inclusive_and_Participatory_Design_in_ML.pdf)
 
 Finally, we intent for the workshop to pave the way for many fruitful future exchanges of ideas and collaborations between participants as well as between participants and IACS. As such, we encourage participants to stay in touch with each other and ourselves - we are happy to support your future endeavours in any way we can!
