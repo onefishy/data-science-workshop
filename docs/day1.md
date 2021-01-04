@@ -30,7 +30,7 @@ materials for teaching these data science concepts to their own students.
   - [Pasco’s sheriff uses grades and abuse histories to label schoolchildren potential criminals](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data/)
   - [Predictive policing algorithms are racist. They need to be dismantled](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/)
   - [Time to reality check the promises of machine learning-powered precision medicine](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30200-4/fulltext)
-- **Concept Quiz:** [Quiz](https://forms.gle/gMo9n9UmWZCM5qTt7)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeV5lC76dmWWTW0w740rkYe8F9GVNb4E5dwJu3bvAGDIhSQzg/viewform?usp=sf_link)
 
 ## **Topic 2:** Linear Regression
 
@@ -40,7 +40,7 @@ materials for teaching these data science concepts to their own students.
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1YkXHgzs5OJ3SPwmz18X7I6bmqjoIwG02/view?usp=sharing)
 - **References:** 
   - [Linear Regression Using Python](https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2)
-- **Concept Quiz:** [Quiz](https://forms.gle/GZzM4c9WKXpXt36H9)
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScZs9MGFWR8D7ond4yNjBqDbLR7nQcl1MqWsSLr5soK3NwgYA/viewform?usp=sf_link)
 
 ## **Topic 3:** Multi-Linear and Polynomial Regression
 
