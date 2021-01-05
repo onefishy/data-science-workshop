@@ -25,5 +25,12 @@ We hope that the workshop provides a jumping off point for participants to creat
     - (Advanced Undergraduate to Graduate) [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - (Advanced Undergraduate to Graduate) [Deep Learning](https://www.deeplearningbook.org)
     - (Graduate) [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
+    
+6. **Links to Harvard Data Science Courses:**
+    - [CS109a: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109A/)
+    - [CS109b: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109B/)
+    - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
+    - [AC221: Critical Thinking in Data Science](https://canvas.harvard.edu/courses/65566/assignments/syllabus)
+    
 
 Finally, we intent for the workshop to pave the way for many fruitful future exchanges of ideas and collaborations between participants as well as between participants and IACS. As such, we encourage participants to stay in touch with each other and ourselves - we are happy to support your future endeavours in any way we can!
