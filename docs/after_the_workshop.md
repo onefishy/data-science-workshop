@@ -18,8 +18,8 @@ We hope that the workshop provides a jumping off point for participants to creat
     - [Reading list from Inclusive and Participatory Design in Machine Learning Talk](https://github.com/onefishy/data-science-workshop/blob/master/docs/Inclusive_and_Participatory_Design_in_ML.pdf)
     
 5. **Textbooks for Data Science and Machine Learning:**
-    - (Undergraduate, Coding Based)[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
-    - (Undergraduate, Coding Based)[Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+    - (Undergraduate, Coding Based) [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
+    - (Undergraduate, Coding Based) [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
     - (Undergraduate, Statistics Based) [An Introduction to Statistical Learning](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
     - (Advnaced Undergraduate, Statistics Based) [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
     - (Advanced Undergraduate to Graduate) [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
