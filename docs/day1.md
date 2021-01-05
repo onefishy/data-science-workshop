@@ -98,3 +98,6 @@ materials for teaching these data science concepts to their own students.
 
 ## Afternoon Session: Discussion Topics
 1. [Discussion starter questions](https://docs.google.com/presentation/d/1fP6xmsU8H4YXVR85uLld7JSlc91EdyVCy8vQY_GlZsU/edit?usp=sharing)
+
+## Day 1 Discussion Highlights
+1. [Questions that came up in Day 1 discussion sessions](./day1_summary.html)
