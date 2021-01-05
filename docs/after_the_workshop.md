@@ -31,6 +31,7 @@ We hope that the workshop provides a jumping off point for participants to creat
     - [CS109b: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109B/)
     - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
     - [AC221: Critical Thinking in Data Science](https://canvas.harvard.edu/courses/65566/assignments/syllabus)
+    - [CS107: Systems Development for Computational Science](https://harvard-iacs.github.io/2020-CS107/)
     
 
 Finally, we intent for the workshop to pave the way for many fruitful future exchanges of ideas and collaborations between participants as well as between participants and IACS. As such, we encourage participants to stay in touch with each other and ourselves - we are happy to support your future endeavours in any way we can!
