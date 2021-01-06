@@ -17,6 +17,7 @@ We hope that the workshop provides a jumping off point for participants to creat
     - [Schedule of reading from Diversity, Inclusion and Leadership](https://onefishy.github.io/DIL_in_tech/schedule.html)
     - [Reading list from Inclusive and Participatory Design in Machine Learning Talk](https://github.com/onefishy/data-science-workshop/blob/master/docs/Inclusive_and_Participatory_Design_in_ML.pdf)
     - [Embedded EthiCS @ Harvard](https://embeddedethics.seas.harvard.edu/module.html)
+    - [Practical Data Ethics](https://ethics.fast.ai)
     
 5. **Textbooks for Data Science and Machine Learning:**
     - (Undergraduate, Coding Based) [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
