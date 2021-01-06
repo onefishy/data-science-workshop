@@ -34,5 +34,9 @@ We hope that the workshop provides a jumping off point for participants to creat
     - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
     - [CS107: Systems Development for Computational Science](https://harvard-iacs.github.io/2020-CS107/)
     
+7. **Links to Other Data Science Courses:**
+    - [Data 8: The Foundations of Data Science (UC Berkeley)](http://data8.org)
+    - [Data Science Modules (UC Berkeley)](https://ds-modules.github.io/DS-Modules/)
+    
 
 Finally, we intent for the workshop to pave the way for many fruitful future exchanges of ideas and collaborations between participants as well as between participants and IACS. As such, we encourage participants to stay in touch with each other and ourselves - we are happy to support your future endeavours in any way we can!
