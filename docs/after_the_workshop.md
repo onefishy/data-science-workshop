@@ -27,11 +27,12 @@ We hope that the workshop provides a jumping off point for participants to creat
     - (Advanced Undergraduate to Graduate) [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - (Advanced Undergraduate to Graduate) [Deep Learning](https://www.deeplearningbook.org)
     - (Graduate) [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
-6. **Links to Programming Free ML Platforms:** 
+6. **Links to Programming Free ML/Analytics Platforms:** 
    - [Create ML](https://developer.apple.com/machine-learning/create-ml/)
    - [Google AutoML](https://cloud.google.com/automl)
    - [Obviously AI](https://www.obviously.ai)
    - [Teachable Machine](https://teachablemachine.withgoogle.com)
+   - [Tableau](https://www.tableau.com)
     
 7. **Links to Harvard Data Science Courses:**
     - [CS109a: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109A/)
