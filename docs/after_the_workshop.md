@@ -42,6 +42,7 @@ We hope that the workshop provides a jumping off point for participants to creat
 8. **Links to Other Data Science Courses:**
     - [Data 8: The Foundations of Data Science (UC Berkeley)](http://data8.org)
     - [Data Science Modules (UC Berkeley)](https://ds-modules.github.io/DS-Modules/)
+    - [Introduction to Data Science Curriculum v_5.0](https://curriculum.idsucla.org)
     
 9. **Links to Datasets:**
     - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
