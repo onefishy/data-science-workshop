@@ -27,14 +27,19 @@ We hope that the workshop provides a jumping off point for participants to creat
     - (Advanced Undergraduate to Graduate) [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - (Advanced Undergraduate to Graduate) [Deep Learning](https://www.deeplearningbook.org)
     - (Graduate) [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
+6. **Links to Programming Free ML Platforms:** 
+   - [Create ML](https://developer.apple.com/machine-learning/create-ml/)
+   - [Google AutoML](https://cloud.google.com/automl)
+   - [Obviously AI](https://www.obviously.ai)
+   - [Teachable Machine](https://teachablemachine.withgoogle.com)
     
-6. **Links to Harvard Data Science Courses:**
+7. **Links to Harvard Data Science Courses:**
     - [CS109a: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109A/)
     - [CS109b: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109B/)
     - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
     - [CS107: Systems Development for Computational Science](https://harvard-iacs.github.io/2020-CS107/)
     
-7. **Links to Other Data Science Courses:**
+8. **Links to Other Data Science Courses:**
     - [Data 8: The Foundations of Data Science (UC Berkeley)](http://data8.org)
     - [Data Science Modules (UC Berkeley)](https://ds-modules.github.io/DS-Modules/)
     
