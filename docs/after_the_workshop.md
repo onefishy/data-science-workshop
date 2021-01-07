@@ -35,7 +35,7 @@ We hope that the workshop provides a jumping off point for participants to creat
     
 7. **Links to Harvard Data Science Courses:**
     - [CS109a: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109A/)
-    - [CS109b: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109B/)
+    - [CS109b: Introduction to Data Science II](https://harvard-iacs.github.io/2019-CS109B/)
     - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
     - [CS107: Systems Development for Computational Science](https://harvard-iacs.github.io/2020-CS107/)
     
