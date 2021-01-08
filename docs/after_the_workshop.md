@@ -12,14 +12,15 @@ We hope that the workshop provides a jumping off point for participants to creat
 
 3. **Spring Research Visit (MARCH - MAY, 2021):** For those participants who are interested, IACS offers a number of possible spring programming for participant home institutions, ranging from introduction to data science workshops for students to research talks from IACS researchers. We are especially enthusiastic to brainstorm with participants on how to use such programming to help support students from historically minoritized backgrounds in data science! 
 
-4. **References for Data Science ethics and social impact:** 
+### Resources for Machine Learning/Data Science Pedagogy
+1. **References for Data Science ethics and social impact:** 
     - [Reading list from Diversity, Inclusion and Leadership](https://onefishy.github.io/DIL_in_tech/reading_list.html)
     - [Schedule of reading from Diversity, Inclusion and Leadership](https://onefishy.github.io/DIL_in_tech/schedule.html)
     - [Reading list from Inclusive and Participatory Design in Machine Learning Talk](https://github.com/onefishy/data-science-workshop/blob/master/docs/Inclusive_and_Participatory_Design_in_ML.pdf)
     - [Embedded EthiCS @ Harvard](https://embeddedethics.seas.harvard.edu/module.html)
     - [Practical Data Ethics](https://ethics.fast.ai)
     
-5. **Textbooks for Data Science and Machine Learning:**
+2. **Textbooks for Data Science and Machine Learning:**
     - (Undergraduate, Coding Based) [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
     - (Undergraduate, Coding Based) [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
     - (Undergraduate, Statistics Based) [An Introduction to Statistical Learning](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
@@ -27,26 +28,38 @@ We hope that the workshop provides a jumping off point for participants to creat
     - (Advanced Undergraduate to Graduate) [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - (Advanced Undergraduate to Graduate) [Deep Learning](https://www.deeplearningbook.org)
     - (Graduate) [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
-6. **Links to Programming Free ML/Analytics Platforms:** 
+3. **Links to Programming Free ML/Analytics Platforms:** 
    - [Create ML](https://developer.apple.com/machine-learning/create-ml/)
    - [Google AutoML](https://cloud.google.com/automl)
    - [Obviously AI](https://www.obviously.ai)
    - [Teachable Machine](https://teachablemachine.withgoogle.com)
    - [Tableau](https://www.tableau.com)
     
-7. **Links to Harvard Data Science Courses:**
+4. **Links to Harvard Data Science Courses:**
     - [CS109a: Introduction to Data Science I](https://harvard-iacs.github.io/2019-CS109A/)
     - [CS109b: Introduction to Data Science II](https://harvard-iacs.github.io/2019-CS109B/)
     - [AM207: Stochastic Methods for Data Analysis, Inference and Optimization](https://onefishy.github.io/am207/)
     - [CS107: Systems Development for Computational Science](https://harvard-iacs.github.io/2020-CS107/)
     
-8. **Links to Other Data Science Courses:**
+5. **Links to Other Data Science Courses:**
     - [Data 8: The Foundations of Data Science (UC Berkeley)](http://data8.org)
     - [Data Science Modules (UC Berkeley)](https://ds-modules.github.io/DS-Modules/)
     - [Introduction to Data Science Curriculum v_5.0](https://curriculum.idsucla.org)
+    - [MAT 128, Foundations of Data Science, Lehman College, CUNY](https://github.com/megan-owen/MAT128-Foundations_of_Data_Science)
     
-9. **Links to Datasets:**
+6. **Links to Datasets:**
     - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
     - [Google BigQuery](https://cloud.google.com/bigquery/public-data)
+    - [Microsoft's Data Science for Research](https://www.microsoft.com/en-us/research/academic-program/data-science-microsoft-research/)
+    
+7. **Professional Affinity Groups, Campus Enrichment Programs and Research Opportunites**
+    - [Latinx in AI](https://www.latinxinai.org)
+    - [Women in ML](https://wimlworkshop.org)
+    - [Black in AI](https://blackinai.github.io/#/)
+    - [AI4All](https://ai-4-all.org)
+    - [Google CS Research Mentorship Program (for undergraduates from historically underrepresented groups)](https://research.google/outreach/csrmp/)
+    - [Google exploreCSR (for universities supporting undergraduates from historically underrepresented groups)](https://research.google/outreach/explore-csr/)
+    - [IBM Global University Programs (provides resources, skills training and guest lecturers to universities)](https://www.research.ibm.com/university/)
+
 
 Finally, we intent for the workshop to pave the way for many fruitful future exchanges of ideas and collaborations between participants as well as between participants and IACS. As such, we encourage participants to stay in touch with each other and ourselves - we are happy to support your future endeavours in any way we can!
