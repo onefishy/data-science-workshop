@@ -37,6 +37,5 @@ The workshop structure is based on the format of a “flipped-classroom”. We a
 - [Who should apply to the workshop?](./who-should-apply.html)
 - [How do I apply?](./application-process.html)
 - [When and where is the workshop?](./when-and-where.html)
-- [What topics are covered in the workshop?](./schedule.html)
 
 Don't see your question? Contact: weiweipan (at) g (dot) harvard (dot) edu
