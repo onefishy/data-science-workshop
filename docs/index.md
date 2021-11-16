@@ -4,7 +4,7 @@ science. The workshop is ***virtual*** and will take place **January 10-14, 2022
 
 The goals of the workshop are to: 
 1. help educators, who are new to the field, build sound foundations in data science
-2. expose data science educators to current "state-of-the-art" methodologies and tools in data science
+2. expose data science educators to "state-of-the-art" methodologies and tools in data science
 3. facilitate a supportive environment for educators to develop data science pedagogical materials that are customized to the needs of their own students. 
 
 ### Organizers
@@ -16,11 +16,11 @@ The program committee:
 - [Pavlos Protopapas](https://iacs.seas.harvard.edu/people/pavlos-protopapas) (Harvard IACS)
 
 ### Workshop Schedule
-The workshop structure is based on the format of a “flipped-classroom”. We ask that participants review the technical content (videos, slides etc) prior to each day, and work on hands-on activities during workshop sessions. There will be two workshop sessions per day. Each session will be hands-on activities centering around content exploration or pedagogy.
+The workshop structure is based on the format of a “flipped-classroom”. We ask that participants review the technical content (videos, slides etc) prior to each day, and work on hands-on activities during workshop sessions. There will be two workshop sessions per day. Each session will consist of hands-on activities centering around content exploration or pedagogy.
 
-**Morning Session:** During the morning session of each day, participants will explore a Deepnote notebooks that puts these concepts together in ways that expose interesting properties of models and algorithms.
+**Morning Sessions:** Participants will explore Deepnote notebooks that combine data science concepts together in ways that expose interesting properties.
 
-**Afternoon Session:** During the afternoon session of each day, participants will discuss how to adapt existing materials or how to create new materials for teaching these data science concepts to their own students.
+**Afternoon Session:** Participants will discuss how to adapt existing materials or how to create new materials for teaching data science concepts to their own students.
 
 
 ### Important Dates 
