@@ -9,4 +9,4 @@ The application consists of:
 
 The application is ***free***.
 
-[Apply now!](https://forms.gle/J4amL5rcejTrxtxz6)
+[Apply now!](https://forms.gle/zKBccbUyAxb8gg9a6)
