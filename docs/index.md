@@ -1,6 +1,6 @@
 # General Information
 This is a week long data science pedagogy workshop for educators of underrepresented or underserved college students in data
-science. The workshop is ***virtual*** and will take place **January 10-14, 2022**. There is no cost for participation.
+science. The workshop is ***virtual*** and will take place **January 3-7, 2022**. There is no cost for participation.
 
 The goals of the workshop are to: 
 1. help educators, who are new to the field, build sound foundations in data science
